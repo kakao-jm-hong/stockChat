@@ -1,5 +1,4 @@
-import logo from './logo.svg';
-import './App.scss';
+import './App.css';
 import MainContainer from './page/MainContainer'
 function App() {
   return (
