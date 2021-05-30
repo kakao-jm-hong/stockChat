@@ -5,7 +5,7 @@ import Item from './item';
 import Pagination from './pagination';
 
 const DEMO_PROPS = {
-  list_title: '타이틀',
+  list_title: '모심',
   list_type: 'home',
   login: false
 }

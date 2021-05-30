@@ -3,15 +3,15 @@ import React from 'react';
 const DEMO_PROPS = {
   list_type: 'test',
   item: [{
-    item_title: '아이템 타이틀 1',
+    item_title: '모심 1',
     item_content: '아이템 내용 1',
     thumbnail: 'http://dev.ui.naver.com/tmp/?100x100'
   },{
-    item_title: '아이템 타이틀 2',
+    item_title: '모심2 2',
     item_content: '아이템 내용 2',
     thumbnail: 'http://dev.ui.naver.com/tmp/?100x100'
   },{
-    item_title: '아이템 타이틀 3',
+    item_title: '모심 3',
     item_content: '아이템 내용 3',
     thumbnail: ''
   }]
