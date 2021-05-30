@@ -5,7 +5,7 @@ class MainContainer extends Component {
         return (
             <>
             <div className={style.loginWrap}>
-                
+                test
             </div>
             </>
         );
